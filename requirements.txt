@@ -1,9 +1,5 @@
-streamlit>=1.32
-python-dotenv>=1.0.0
-google-genai>=0.3.0
-huggingface-hub
-flask
+Flask
+gunicorn
 flask-cors
-requests>=2.30
-# The model will run on external inference servers, so heavy ML libs
-# like torch/transformers are not required here.
+google-generativeai
+python-dotenv
