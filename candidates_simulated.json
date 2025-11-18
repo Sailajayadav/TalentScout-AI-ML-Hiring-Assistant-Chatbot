@@ -1,0 +1,31 @@
+[
+  {
+    "id": "df30819e49ec1ec4",
+    "timestamp": "2025-11-17T17:14:15.180770",
+    "years_experience": 0,
+    "desired_positions": "ds",
+    "location": "Vijayawada",
+    "tech_stack": [
+      "Python"
+    ],
+    "questions": [
+      {
+        "name": "Python",
+        "questions": [
+          {
+            "q": "Explain the difference between lists and tuples in Python. When would you choose one over the other?",
+            "difficulty": "medium"
+          },
+          {
+            "q": "Describe the purpose of the `__init__` method in a Python class and how it's used.",
+            "difficulty": "easy"
+          },
+          {
+            "q": "Explain how Python handles memory management. What is garbage collection and how does it work in Python?",
+            "difficulty": "medium"
+          }
+        ]
+      }
+    ]
+  }
+]
